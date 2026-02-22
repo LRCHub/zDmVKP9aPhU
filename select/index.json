@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "永遠の白線",
+  "base_artist": "Keyakizaka46",
+  "createdAt": "2026-02-22T19:03:48.568709Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "永遠の白線",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/01_永遠の白線_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "永遠の白線",
+      "artist": "けやき坂46",
+      "has_synced": false,
+      "path": "select/02_永遠の白線_けやき坂46.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "永遠の白線",
+      "artist": "ひらがなけやき坂46",
+      "has_synced": false,
+      "path": "select/03_永遠の白線_ひらがなけやき坂46.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "永遠の白線",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_01_永遠の白線_欅坂46.txt"
+    }
+  ]
+}
